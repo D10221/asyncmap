@@ -1,4 +1,4 @@
-Sqlite Persisted Asyncronous KeyValue store , ES6 Map<K,V> like where K is Key Type and V is Value type :
+Sqlite Persisted Asyncronous KeyValue store , ES6 Map<K,V> look like (from far away:) where K is Key Type and V is Value type :
 
 mimicking ES6 Map<K,V> interface but not implementing it fully:
 
