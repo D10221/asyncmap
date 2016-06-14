@@ -1,0 +1,21 @@
+{
+  "name": "asyncmap",
+  "version": "0.0.1",
+  "description": "async map like ",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "npm run build",
+    "build": "tsc -p .",
+    "test": "mocha built/tests.js"
+  },
+  "author": "D10221",
+  "license": "DWTFYWWI",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "rx": "^4.1.0",
+    "sqlite3": "^3.1.4"
+  }
+}
