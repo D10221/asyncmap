@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "async map like ",
   "main": "built/asyncmap.js",
-  "typings":"built.asyncmap.d.ts",
+  "typings":"built/asyncmap.d.ts",
   "scripts": {
     "pretest": "npm run build",
     "build": "tsc -p .",
