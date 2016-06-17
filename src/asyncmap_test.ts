@@ -1,6 +1,6 @@
 import * as path from 'path';
 import {Database} from 'sqlite3';
-import {AsyncMap} from'./AsyncMap';
+import {AsyncMap} from'./asyncmap';
 import {assert} from 'chai';
 
 describe('AsyncMap', () => {
