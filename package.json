@@ -1,6 +1,6 @@
 {
   "name": "asyncmap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "async map like ",
   "main": "built/asyncmap.js",
   "typings":"built.asyncmap.d.ts",
